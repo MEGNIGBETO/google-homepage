@@ -1,0 +1,79 @@
+#page {
+    text-align: center;
+    height: auto;
+    color: gray;
+}
+
+ul {
+    list-style-type: none;
+    padding-bottom: 10px;
+}
+
+li {
+    display: inline;
+}
+
+form {
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+#navigation {
+    text-align: right;
+    margin-bottom: 90px;
+    font-size: 13px;
+}
+
+#application {
+    height: 30px;
+    border-radius: 50%;
+}
+
+#profile {
+    border-radius: 50%;
+}
+
+#bouton {
+    margin-top: 20px;
+}
+
+.bouton {
+    color: gray;
+    background-color: rgba(221, 217, 217, 0.397);
+    height: 30px;
+}
+
+#langue {
+    margin-top: 40px;
+    margin-bottom: 80px;
+}
+
+#champ_recherche {
+    height: 30px;
+    width: 400px;
+}
+
+#langue {
+    color: black;
+    font-size: 13px;
+}
+
+footer {
+    text-align: center;
+    font-size: 13px;
+    background-color: rgba(221, 217, 217, 0.397);
+}
+
+#pays {
+    text-align: left;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-color: rgba(14, 14, 14, 0.144);
+    color: gray;
+    font-size: 15px;
+}
+
+.pad {
+    padding-left: 10px;
+    padding-right: 10px;
+}
